@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 ##Fake API
-npm run server 
+### `npm run server`
 
 In the project directory, you can run:
 
