@@ -1,0 +1,140 @@
+{
+  "controllers": [
+    {
+      "flashing": false,
+      "duskTillDown": true,
+      "nightVision": false,
+      "battery": 50,
+      "intesityLevels": [
+        0,
+        1,
+        3,
+        10,
+        30,
+        100
+      ],
+      "selectedIntesity": 4,
+      "name": "APH 845",
+      "id": 1
+    },
+    {
+      "flashing": false,
+      "duskTillDown": true,
+      "nightVision": false,
+      "battery": 50,
+      "intesityLevels": [
+        0,
+        1,
+        3,
+        10,
+        30,
+        100
+      ],
+      "selectedIntesity": 3,
+      "name": "THR 09",
+      "id": 2
+    },
+    {
+      "flashing": true,
+      "duskTillDown": false,
+      "nightVision": true,
+      "battery": 20,
+      "intesityLevels": [
+        0,
+        1,
+        3,
+        10,
+        30,
+        100
+      ],
+      "selectedIntesity": 2,
+      "name": "GTX 728",
+      "id": 3
+    },
+    {
+      "flashing": false,
+      "duskTillDown": true,
+      "nightVision": false,
+      "battery": 80,
+      "intesityLevels": [
+        0,
+        1,
+        3,
+        10,
+        30,
+        100
+      ],
+      "selectedIntesity": 5,
+      "name": "ZXT 112",
+      "id": 4
+    },
+    {
+      "flashing": true,
+      "duskTillDown": true,
+      "nightVision": true,
+      "battery": 10,
+      "intesityLevels": [
+        0,
+        1,
+        3,
+        10,
+        30,
+        100
+      ],
+      "selectedIntesity": 2,
+      "name": "BLC 950",
+      "id": 5
+    },
+    {
+      "flashing": false,
+      "duskTillDown": false,
+      "nightVision": false,
+      "battery": 70,
+      "intesityLevels": [
+        0,
+        1,
+        3,
+        10,
+        30,
+        100
+      ],
+      "selectedIntesity": 3,
+      "name": "JDP 304",
+      "id": 6
+    },
+    {
+      "flashing": true,
+      "duskTillDown": true,
+      "nightVision": false,
+      "battery": 30,
+      "intesityLevels": [
+        0,
+        1,
+        3,
+        10,
+        30,
+        100
+      ],
+      "selectedIntesity": 4,
+      "name": "KLM 723",
+      "id": 7
+    },
+    {
+      "flashing": false,
+      "duskTillDown": false,
+      "nightVision": true,
+      "battery": 90,
+      "intesityLevels": [
+        0,
+        1,
+        3,
+        10,
+        30,
+        100
+      ],
+      "selectedIntesity": 4,
+      "name": "tPM 827",
+      "id": 8
+    }
+  ]
+}
